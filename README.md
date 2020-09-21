@@ -16,8 +16,8 @@
 ## Install
 Git clone is easiest to install these files:
 ```
-git clone https://github.com/yuuuusuke1997/Article_analysis.git
-cd Article_analysis
+$ git clone https://github.com/yuuuusuke1997/Article_analysis.git
+$ cd Article_analysis
 ```
 
 ## Usage
